@@ -1,2 +1,3 @@
 "Milk, Eggs, Bread, Apples" 
-"Oranges" 
+"Oranges"
+"Potatoes"
